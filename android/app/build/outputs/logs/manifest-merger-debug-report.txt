@@ -1,0 +1,218 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml:1:1-28:12
+MERGED from [:react-native-sms] /Volumes/The Vault/Progetti React/MapiShop/node_modules/react-native-sms/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Volumes/The Vault/Progetti React/MapiShop/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.58.6] /Users/marco/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/0e0e589272d58b83e3b8162bac704c75/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/15baf9c0529c94d0a6bdd322c1abf0ae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/be6905c85143e33893f174fa7d7b9272/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/d30d0ff7a1bb08ea73139e2bff718948/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/94249e831b9df660f74388f538a1ddbf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/0693561fe7bd8f0237b44952b543f3df/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/75183f8ba98f6aa7a312b23df007a4e6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/6630a1d0ac9b51a5ac3629dba0cc1e51/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/aa7f9dcb539d1b2dad673f8c2fcfb212/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/32172e7e2148f482b43f9bfa16d74997/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/c1052d3ed12cbab9cccd5701f55b5591/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/cc1e578dd3dd0388babf31a13f8a96fa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/9ba89e43580673f6e074637dd703e09a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/257b4e2b0371bc3aff13e28d01f949cf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/7edb783f7ace682123a23fad1c313d6c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f497add9099c8b8a95350ca2d4bcd77e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f48f0463fc662dd3642102eeb88c77a2/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/ab23656227e51a5e66bd8d8680e91e81/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/marco/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/55d268fb943e84d7604bdb071e1c0eba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/0b7b8937bca686359f896018cc8bf0b8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/fe6786d88dedefd009a89534b35a1682/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/17057f8ee1020dbb6769fefcd2e49d76/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/marco/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7cb44ba8a0b52e7485c2930ca9e480c6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/marco/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/505e36b3f700d72a8aeeb0c1bcea0368/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/marco/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/756fb069c89734c57ace31f33f979189/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/marco/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f4d396cf11bafb109880a6e3b52ee08e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/169f5cdcd19652ebdd77e1ba68d2f49f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/8efd9929d123d9f28fa604af6e060328/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/6b984a9e8d5db4ead6e4cec1557023e1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/ffbd92ef0d038e7b2bf1fd3ee4850381/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/a0c19870d5231a9431d5027c9fc3bfcd/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/62735b917fdbe63db628a7783358f8a1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/f570eb09c7618ddc6f6298cdd1e28c61/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/marco/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/d1fb896114a1e0e82b1a512b27fc9511/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/90bcbface77154c673de9bf3e2f74f90/AndroidManifest.xml:2:1-9:12
+INJECTED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml:1:1-28:12
+	package
+		ADDED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml:2:3-36
+		INJECTED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml:1:1-28:12
+		INJECTED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml:1:1-28:12
+		INJECTED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.58.6] /Users/marco/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/0e0e589272d58b83e3b8162bac704c75/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.58.6] /Users/marco/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/0e0e589272d58b83e3b8162bac704c75/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.READ_SMS
+ADDED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml:8:5-26:19
+MERGED from [com.facebook.react:react-native:0.58.6] /Users/marco/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/0e0e589272d58b83e3b8162bac704c75/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.58.6] /Users/marco/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/0e0e589272d58b83e3b8162bac704c75/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f497add9099c8b8a95350ca2d4bcd77e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f497add9099c8b8a95350ca2d4bcd77e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f48f0463fc662dd3642102eeb88c77a2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f48f0463fc662dd3642102eeb88c77a2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/f570eb09c7618ddc6f6298cdd1e28c61/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/f570eb09c7618ddc6f6298cdd1e28c61/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/marco/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/d1fb896114a1e0e82b1a512b27fc9511/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/marco/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/d1fb896114a1e0e82b1a512b27fc9511/AndroidManifest.xml:2:3-17
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f497add9099c8b8a95350ca2d4bcd77e/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml:10:7-39
+	android:roundIcon
+		ADDED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml:12:7-52
+	android:icon
+		ADDED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml:11:7-41
+	android:allowBackup
+		ADDED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml:13:7-34
+	android:theme
+		ADDED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml:14:7-38
+	android:name
+		ADDED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml:9:7-38
+activity#com.controllerantifurto.MainActivity
+ADDED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml:15:7-24:18
+	android:label
+		ADDED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml:17:9-41
+	android:launchMode
+		ADDED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml:19:52-83
+	android:windowSoftInputMode
+		ADDED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml:19:9-51
+	android:configChanges
+		ADDED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml:18:9-79
+	android:name
+		ADDED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml:16:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml:20:9-23:25
+action#android.intent.action.MAIN
+ADDED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml:21:13-65
+	android:name
+		ADDED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml:21:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml:22:13-73
+	android:name
+		ADDED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml:22:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml:25:7-84
+	android:name
+		ADDED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml:25:17-81
+uses-sdk
+INJECTED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml
+INJECTED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-sms] /Volumes/The Vault/Progetti React/MapiShop/node_modules/react-native-sms/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-sms] /Volumes/The Vault/Progetti React/MapiShop/node_modules/react-native-sms/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Volumes/The Vault/Progetti React/MapiShop/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Volumes/The Vault/Progetti React/MapiShop/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.58.6] /Users/marco/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/0e0e589272d58b83e3b8162bac704c75/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.58.6] /Users/marco/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/0e0e589272d58b83e3b8162bac704c75/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/15baf9c0529c94d0a6bdd322c1abf0ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/15baf9c0529c94d0a6bdd322c1abf0ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/be6905c85143e33893f174fa7d7b9272/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/be6905c85143e33893f174fa7d7b9272/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/d30d0ff7a1bb08ea73139e2bff718948/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/d30d0ff7a1bb08ea73139e2bff718948/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/94249e831b9df660f74388f538a1ddbf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/94249e831b9df660f74388f538a1ddbf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/0693561fe7bd8f0237b44952b543f3df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/0693561fe7bd8f0237b44952b543f3df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/75183f8ba98f6aa7a312b23df007a4e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/75183f8ba98f6aa7a312b23df007a4e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/6630a1d0ac9b51a5ac3629dba0cc1e51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/6630a1d0ac9b51a5ac3629dba0cc1e51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/aa7f9dcb539d1b2dad673f8c2fcfb212/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/aa7f9dcb539d1b2dad673f8c2fcfb212/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/32172e7e2148f482b43f9bfa16d74997/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/32172e7e2148f482b43f9bfa16d74997/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/c1052d3ed12cbab9cccd5701f55b5591/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/c1052d3ed12cbab9cccd5701f55b5591/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/cc1e578dd3dd0388babf31a13f8a96fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/cc1e578dd3dd0388babf31a13f8a96fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/9ba89e43580673f6e074637dd703e09a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/9ba89e43580673f6e074637dd703e09a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/257b4e2b0371bc3aff13e28d01f949cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/257b4e2b0371bc3aff13e28d01f949cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/7edb783f7ace682123a23fad1c313d6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/7edb783f7ace682123a23fad1c313d6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f497add9099c8b8a95350ca2d4bcd77e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f497add9099c8b8a95350ca2d4bcd77e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f48f0463fc662dd3642102eeb88c77a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f48f0463fc662dd3642102eeb88c77a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/ab23656227e51a5e66bd8d8680e91e81/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/ab23656227e51a5e66bd8d8680e91e81/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/marco/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/55d268fb943e84d7604bdb071e1c0eba/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/marco/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/55d268fb943e84d7604bdb071e1c0eba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/0b7b8937bca686359f896018cc8bf0b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/0b7b8937bca686359f896018cc8bf0b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/fe6786d88dedefd009a89534b35a1682/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/fe6786d88dedefd009a89534b35a1682/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/17057f8ee1020dbb6769fefcd2e49d76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/17057f8ee1020dbb6769fefcd2e49d76/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/marco/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7cb44ba8a0b52e7485c2930ca9e480c6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/marco/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7cb44ba8a0b52e7485c2930ca9e480c6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/marco/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/505e36b3f700d72a8aeeb0c1bcea0368/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/marco/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/505e36b3f700d72a8aeeb0c1bcea0368/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/marco/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/756fb069c89734c57ace31f33f979189/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/marco/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/756fb069c89734c57ace31f33f979189/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/marco/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f4d396cf11bafb109880a6e3b52ee08e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/marco/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f4d396cf11bafb109880a6e3b52ee08e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/169f5cdcd19652ebdd77e1ba68d2f49f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/169f5cdcd19652ebdd77e1ba68d2f49f/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/8efd9929d123d9f28fa604af6e060328/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/8efd9929d123d9f28fa604af6e060328/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/6b984a9e8d5db4ead6e4cec1557023e1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/6b984a9e8d5db4ead6e4cec1557023e1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/ffbd92ef0d038e7b2bf1fd3ee4850381/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/ffbd92ef0d038e7b2bf1fd3ee4850381/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/a0c19870d5231a9431d5027c9fc3bfcd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/a0c19870d5231a9431d5027c9fc3bfcd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/62735b917fdbe63db628a7783358f8a1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/62735b917fdbe63db628a7783358f8a1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/f570eb09c7618ddc6f6298cdd1e28c61/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/f570eb09c7618ddc6f6298cdd1e28c61/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/90bcbface77154c673de9bf3e2f74f90/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/marco/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/90bcbface77154c673de9bf3e2f74f90/AndroidManifest.xml:5:5-7:41
+INJECTED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml
+INJECTED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml:1:1-28:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml:1:1-28:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Volumes/The Vault/Progetti React/MapiShop/android/app/src/main/AndroidManifest.xml:1:1-28:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
